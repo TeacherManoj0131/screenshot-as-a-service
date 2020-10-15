@@ -1,5 +1,7 @@
 # Screenshot as a Service
 
+Screenshots. cloud sells screenshots as a service, using a CDN-backed API to capture real-time screenshots in seconds. A test of the service is available on the Screenshots. cloud website, along with information about how developers can automatically take screenshots of products without much work on their end.
+
 A simple screenshot web service powered by [Express](http://expressjs.com) and [PhantomJS](http://www.phantomjs.org/). Forked from [screenshot-app](http://github.com/visionmedia/screenshot-app).
 
 ## Setup
